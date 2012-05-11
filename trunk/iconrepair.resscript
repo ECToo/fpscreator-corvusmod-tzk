@@ -1,0 +1,7 @@
+[FILENAMES]
+Exe= FPSC-Game.exe
+SaveAs= FPSC-Game.exe
+Log= FPSC-Game-ICONFIX.log
+
+[COMMANDS]
+-addoverwrite corvusicon.ico, ICONGROUP,105,2057
