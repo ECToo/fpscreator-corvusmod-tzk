@@ -1,0 +1,7 @@
+[FILENAMES]
+Exe= Alpha\FPSC-Game.exe
+SaveAs= Alpha\FPSC-Game.exe
+Log= FPSC-Game-Alpha-ICONFIX.log
+
+[COMMANDS]
+-addoverwrite corvusicon.ico, ICONGROUP,105,2057
